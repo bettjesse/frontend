@@ -37,6 +37,7 @@ https://github.com/bettjesse/frontend.git
 ```shell
  npm install
 ```
+### Run the project
 ```shell
  npm run dev 
 ```
