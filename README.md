@@ -48,7 +48,7 @@ In this project, Tailwind CSS is configured to enhance the styling and visual ef
 
 1. Extended Font Family: The Mulish font is added to the font family options, providing a modern sans-serif look across the application.
 2. Custom Font Size: A new font size (xxs) has been defined, set at 0.625rem (10px), to accommodate very small text elements.
-3. Custom Animations: The configuration includes a custom marquee animation. This animation moves content horizontally across the screen, creating a dynamic visual effect for scrolling text or announcements
+3. Custom Animations: The configuration includes a custom marquee animation. This animation moves content horizontally across the screen, creating a dynamic visual effect 
 
 ```typescript
 /** @type {import('tailwindcss').Config} */
