@@ -8,12 +8,12 @@ const CoreValues: React.FC = () => {
         {/* Our Mission */}
         <div className="flex-1 text-center bg-[#F5F0F0] p-4 rounded-md">
           <img
-            src="/images/mission.jpg"
+            src="/images/mission.png"
             alt="Our Mission"
             className="mx-auto mb-4 w-24 h-24 object-cover rounded-full"
           />
-          <h3 className="text-xl font-semibold mb-2">Our Mission</h3>
-          <p className="text-gray-700">
+          <h3 className="text-xl font-semibold text-[#3C251F] mb-2">Our Mission</h3>
+          <p className="text-[#333131]">
           We are dedicated to care and skill in providing competitive insurance and risk management solutions to our customers, providing attractive opportunities to our employees and improving our stakeholders’ value.
           </p>
         </div>
@@ -21,12 +21,12 @@ const CoreValues: React.FC = () => {
         {/* Our Vision */}
         <div className="flex-1 text-center  bg-[#F5F0F0] p-4 rounded-md">
           <img
-            src="/images/vision.jpg"
+            src="/images/vision.png"
             alt="Our Vision"
             className="mx-auto mb-4 w-24 h-24 object-cover rounded-full"
           />
-          <h3 className="text-xl font-semibold mb-2">Our Vision</h3>
-          <p className="text-gray-700">
+          <h3 className="text-xl font-semibold text-[#3C251F] mb-2">Our Vision</h3>
+          <p className="text-[#333131]">
           To be the insurance intermediary of choice for our customers.
           </p>
         </div>
@@ -34,12 +34,12 @@ const CoreValues: React.FC = () => {
         {/* Our Purpose */}
         <div className="flex-1 text-center  bg-[#F5F0F0] p-4 rounded-md">
           <img
-            src="/images/purpose.jpg"
+            src="/images/purpose.png"
             alt="Our Purpose"
             className="mx-auto mb-4 w-24 h-24 object-cover rounded-full"
           />
-          <h3 className="text-xl font-semibold mb-2">Our Purpose</h3>
-          <p className="text-gray-700">
+          <h3 className="text-xl font-semibold text-[#3C251F] mb-2">Our Purpose</h3>
+          <p className="text-[#333131]">
           We believe that insurance is one of the best ways of protecting your wealth. Our solutions provide our customers with an opportunity to manage and mitigate against any perils.
           </p>
         </div>
@@ -47,12 +47,12 @@ const CoreValues: React.FC = () => {
         {/* Our Customer Promise */}
         <div className="flex-1 text-center  bg-[#F5F0F0] p-4 rounded-md">
           <img
-            src="/images/promise.jpg"
+            src="/images/customer.png"
             alt="Our Customer Promise"
             className="mx-auto mb-4 w-24 h-24 object-cover rounded-full"
           />
-          <h3 className="text-xl font-semibold mb-2">Our Customer Promise</h3>
-          <p className="text-gray-700">
+          <h3 className="text-xl font-semibold  text-[#3C251F] mb-2">Our Customer Promise</h3>
+          <p className="text-[#333131]">
           To put our customers firmly at the forefront of everything we do and deliver on our promises.
           </p>
         </div>

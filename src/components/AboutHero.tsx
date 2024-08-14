@@ -26,7 +26,7 @@ const AboutHero: React.FC = () => {
         {/* Mobile version */}
         <div className="md:hidden w-full mx-auto relative">
           <img 
-            src="/images/h.png" 
+            src="/images/about.png" 
             alt="Hero Image" 
             className="w-full h-auto" 
           />

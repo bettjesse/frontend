@@ -5,7 +5,7 @@ const AboutUs: React.FC = () => {
   return (
     <div className="container mx-auto py-12 px-4">
       <div className="flex flex-col md:flex-row md:space-x-8">
-        {/* Text Section */}
+     
         <div className="md:w-3/5">
           <h2 className="text-3xl text-black font-bold mb-4">About Bancassurance</h2>
           <p className="mb-6 text-lg">
@@ -13,7 +13,7 @@ const AboutUs: React.FC = () => {
           </p>
 <div className=' mt-12 md:py-6 py-4 '>
           <h3 className="text-xl font-semibold mb-4">Why NBK Bancassurance Intermediary Ltd ( Not Insurance Agency).</h3>
-          <ul className="list-disc list-inside space-y-2">
+          <ul className="list-disc list-inside space-y-2 text-md">
             <li>Convenience of buying insurance through a trusted intermediary</li>
             <li>One stop shop for all your insurance and banking needs.</li>
             <li>Risk advisory on suitable insurance coverage based on your needs</li>
@@ -68,7 +68,7 @@ const AboutUs: React.FC = () => {
 
             <button
               type="submit"
-              className="w-full md:text-xl bg-[#FFBA00] text-[#3C251F] py-2 px-4 rounded-md shadow hover:bg-[#e1a900] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#FFBA00] flex justify-between items-center"
+              className="w-full md:text-lg bg-[#FFBA00] text-[#3C251F] py-2 px-4 rounded-md shadow hover:bg-[#e1a900] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#FFBA00] flex justify-between items-center"
             >
               Send My Request
               <BsArrowRight size={25}/>
