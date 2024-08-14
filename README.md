@@ -10,11 +10,11 @@ This project involves developing the frontend for the NBK Bancassurance website 
 
 1. Responsive Dynamic Menu: The application features a fully responsive menu that adapts to various screen sizes. On mobile devices, the menu collapses into a hamburger icon. When clicked, the hamburger icon opens a drawer-like menu, allowing users to navigate through the application easily ,this is achieved by using the UseState hook.
 
-2.Figma Design Implementation: The frontend is developed based on a Figma design, ensuring pixel-perfect accuracy and consistency with the design specifications
+2. Figma Design Implementation: The frontend is developed based on a Figma design, ensuring pixel-perfect accuracy and consistency with the design specifications
 
 3. Mobile Responsiveness: The application is optimized for mobile devices, ensuring an intuitive experience across various screen sizes and orientations.
 
-4.Tailwind CSS for Styling: The application utilizes Tailwind CSS for styling, enabling rapid UI development with a utility-first approach. This ensures a clean and maintainable codebase while achieving a visually appealing interface.
+4. Tailwind CSS for Styling: The application utilizes Tailwind CSS for styling, enabling rapid UI development with a utility-first approach. This ensures a clean and maintainable codebase while achieving a visually appealing interface.
 
 
 5. React and TypeScript Integration: The application is built using React for the UI and TypeScript for type safety, providing a scalable frontend architecture.
