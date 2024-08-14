@@ -115,9 +115,10 @@ const Footer = () => {
               </ul>
             </div>
 
-            {/* Column 5 */}
+        
            
           </div>
+              {/* Column 5 */}
           <div className=" md:hidden   space-y-4 ">
            
             <h3 className="font-bold text-lg text-[#30120B]">Banking Hours</h3>
@@ -147,7 +148,7 @@ const Footer = () => {
           
 
             </div>
-            <div className="flex space-x-4 ml-0 md:ml-8">
+            <div className="flex text-sm space-x-4 ml-0 md:ml-8">
               <a href="#"><FaFacebook /></a>
               <a href="#"><FaInstagram /></a>
               <a href="#"><FaLinkedin /></a>
